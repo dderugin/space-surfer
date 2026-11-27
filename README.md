@@ -2,9 +2,11 @@
 
 Find what’s taking up space on your Mac. Space Surfer is a free, open-source disk space analyzer for macOS 14 and later. Scan your startup disk, an external drive, or a single folder, then use an interactive disk map to find the largest files and folders.
 
-**[Download Space Surfer v0.1.0 for macOS](https://github.com/dderugin/space-surfer/releases/download/v0.1.0/Space-Surfer-v0.1.0-macOS.zip)**
+**[Download Space Surfer v0.1.0 for macOS (.dmg)](https://github.com/dderugin/space-surfer/releases/download/v0.1.0/Space-Surfer-v0.1.0-macOS.dmg)**
 
-Requires macOS 14 or later on Apple silicon or Intel. Unzip the download and move **Space Surfer.app** to **Applications**. This release is ad hoc signed and has no Apple notarization. If Gatekeeper shows a first-launch warning, see [Apple’s guidance on opening downloaded apps](https://support.apple.com/en-us/102445).
+Requires macOS 14 or later on Apple silicon or Intel. Open the DMG and drag **Space Surfer.app** into **Applications**. A [ZIP download](https://github.com/dderugin/space-surfer/releases/download/v0.1.0/Space-Surfer-v0.1.0-macOS.zip) is also available.
+
+This release is ad hoc signed and has no Apple notarization. If Gatekeeper shows a first-launch warning, see [Apple’s guidance on opening downloaded apps](https://support.apple.com/en-us/102445).
 
 ![Space Surfer for macOS showing disk usage in a treemap beside folders ranked by size](Assets/space-surfer-macos-disk-usage-treemap.jpg)
 
