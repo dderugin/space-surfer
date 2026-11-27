@@ -19,6 +19,14 @@ This release is ad hoc signed and has no Apple notarization. If Gatekeeper shows
 - **Review files before freeing up space.** Preview items with Quick Look, reveal them in Finder, or move selected items to Trash.
 - **Scan locally.** Space Surfer reads file metadata on your Mac. Favorites and display preferences stay in macOS user defaults.
 
+## Install with Homebrew
+
+```sh
+brew install --cask dderugin/tap/space-surfer
+```
+
+The [Homebrew tap](https://github.com/dderugin/homebrew-tap) installs the same macOS release as the DMG above.
+
 ## Build and run on macOS
 
 You’ll need macOS 14 or later, Apple’s Command Line Tools, Swift 6, and Python 3.
